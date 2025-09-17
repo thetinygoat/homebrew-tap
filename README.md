@@ -1,4 +1,4 @@
-# Thetinygoat Tap
+# thetinygoat's Tap
 
 ## How do I install these formulae?
 
