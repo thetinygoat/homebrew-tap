@@ -1,6 +1,6 @@
 cask "flowterm" do
-  version "0.51.0"
-  sha256 "a672219707a5d6c7af068984f01cd90de731b07831b3d1aa69c4090e937dee76"
+  version "0.52.0"
+  sha256 "d0388c61b1492f94293d19512c877fc146ed7e4bf43bb52a88b2e46778e03856"
 
   url "https://github.com/thetinygoat/flow/releases/download/v#{version}/Flow-#{version}.dmg"
   name "Flow"
